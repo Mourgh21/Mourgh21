@@ -14,7 +14,7 @@
 
 💞️ I'm looking to collaborate on:
 
-* Open source projects related to UI UX design, front-end development, or software engineering 🤝
+* Open source projects related to UI UX design, front-end development 🤝
 * Working on new and innovative products 💡🚀
 
 📫 How to reach me:
