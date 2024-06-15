@@ -4,14 +4,7 @@
 
 * UI UX Design 🎨🖌️
 * Front-end development 💻📱
-* Software engineering ⚙️🤖
-
-🌱 I'm currently learning:
-
-* C 📜
-* Python 🐍
-* Next.js 🚀
-
+  
 💞️ I'm looking to collaborate on:
 
 * Open source projects related to UI UX design, front-end development 🤝
